@@ -25,7 +25,8 @@ namespace fukuv0716
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Top += int.Parse(textBox1.Text) -10;
+            textBox1.Text = int.-1;
+            textBox2.Text = int.0;
         }
 
         private void button2_Click(object sender, EventArgs e)
