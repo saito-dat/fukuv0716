@@ -25,8 +25,8 @@ namespace fukuv0716
 
         private void button1_Click(object sender, EventArgs e)
         {
-            textBox1.Text = int.-1;
-            textBox2.Text = int.0;
+            textBox1.Text = 
+            textBox2.Text =
         }
 
         private void button2_Click(object sender, EventArgs e)
